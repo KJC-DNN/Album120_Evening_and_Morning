@@ -23,7 +23,7 @@ Days 3–6 fill the formed world; humanity bears God’s image; the Spirit now m
 # Prayer note: 
 Creator and Redeemer, You made all things very good and You open the way back to life. Teach us to rest in You.
 
-# Published
-1. GitHub:
+# Published:
+1. GitHub : https://github.com/KJC-DNN/Album120_Evening_and_Morning/releases/tag/120.0.0
 2. Archive: album-120-evening-and-morning-cover
-3. Zenodo: 
+3. Zenodo : https://doi.org/10.5281/zenodo.24273978
