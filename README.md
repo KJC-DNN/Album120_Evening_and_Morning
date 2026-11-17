@@ -27,3 +27,9 @@ Creator and Redeemer, You made all things very good and You open the way back to
 1. GitHub : https://github.com/KJC-DNN/Album120_Evening_and_Morning/releases/tag/120.0.0
 2. Archive: album-120-evening-and-morning-cover
 3. Zenodo : https://doi.org/10.5281/zenodo.24273978
+
+# Instrumental
+## Published
+1. GitHub: https://github.com/KJC-DNN/Albums118-120_Instrumentals_According_to_the_Pattern/releases/tag/118-120.0.0
+2. Archive: albums-118-120-instrumentals-according-to-the-pattern-cover
+3. Zenodo: https://doi.org/10.5281/zenodo.24297126
